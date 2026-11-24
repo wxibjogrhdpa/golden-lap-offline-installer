@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+This will not change the game in any way, and will simply allow you to donate and help our future projects!
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,12 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | — | macOS 10.6 |
+| **Processor** | Intel Core2 Duo or Better | Intel Core i5 / Apple M1 |
+| **Graphics** | DirectX 9/OpenGL 4.1 capable GPU | Supports OpenGL 1.x |
+| **OS *** | WindowsR 7/8/8.1/10 (32bit/64bit) | WindowsR 7/8/8.1/10 (32bit/64bit) |
+| **Sound Card** | Whatever makes bleeps and bloops | Whatever makes bleeps and bloops |
+| **Additional Notes** | 1280x720 or Better Display | 1280x720 or Better Display |
 
 ---
 
